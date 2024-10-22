@@ -101,7 +101,7 @@ async def handle_action(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # Main function to start the bot
 def main():
     # Your Telegram bot token
-    TOKEN = "7074559050:AAE8P3KU9NvpUgKFxJXgl9NOY"
+    TOKEN = "7823021705:AAG_BFjqBpDsNFlZ0VzjUivpYSGUjD0fBhE"
 
     # Create Application object with your bot's token
     application = Application.builder().token(TOKEN).build()
